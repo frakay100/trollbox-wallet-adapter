@@ -34,8 +34,10 @@
     "peerDependencies": {
         "@solana/web3.js": "^1.87.6"
     },
+    "dependencies": {
+           "@solana/wallet-adapter-base": "^0.9.23"
+    },
     "devDependencies": {
-        "@solana/web3.js": "^1.87.6",
         "shx": "^0.3.4"
     }
 }
