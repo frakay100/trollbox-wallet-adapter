@@ -1,0 +1,10 @@
+{
+    "extends": "./tsconfig.root.json",
+    "references": [
+
+        {
+            "path": "./packages/wallets/trollbox/tsconfig.json"
+        
+        }
+    ]
+}
