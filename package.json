@@ -1,7 +1,7 @@
 {
-    "name": "@strollbox/wallet-adapter-trollbox",
-    "version": "0.9.24",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
+    "name": "@trollbox/wallet-adapter-trollbox",
+    "version": "0.0.1",
+    "author": "Trollbox Maintainers <contact@trollbox.io>",
     "repository": "https://github.com/frakay100/trollbox-wallet-adapter",
     "license": "Apache-2.0",
     "publishConfig": {
